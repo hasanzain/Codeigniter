@@ -21,4 +21,4 @@ projek dan tutorial codeigniter pemula
 ->login gagal:echo password/user salan
 --------------------------------????????????????????--------------------------????????????????-----------------
 
-->v_admin:apakah status sudah login? (Y) menampilkan halaman index (N) redirect ke login,tujuanya untuk menolak akses tanpa login
+->v_admin:apakah status sudah login? (Y) menampilkan halaman index (N) redirect ke login,tujuanya untuk menolak akses tanpa login atau redirect langsung
